@@ -1,0 +1,12 @@
+--- old/objects.txt	2016-04-16 13:52:48.939652964 +0300
++++ new/objects.txt	2016-04-16 13:50:52.795650040 +0300
+@@ -1348,3 +1348,9 @@
+ 1 3 6 1 4 1 311 60 2 1 1	: jurisdictionL		: jurisdictionLocalityName
+ 1 3 6 1 4 1 311 60 2 1 2	: jurisdictionST	: jurisdictionStateOrProvinceName
+ 1 3 6 1 4 1 311 60 2 1 3	: jurisdictionC		: jurisdictionCountryName
++
++Enterprises 13312 503 5 1 : Id-papugin  : id-papugin 
++id-papugin 1 : id-psec-message : psec-mess
++id-papugin 2 : id-psm-command : psm-comm
++id-papugin 3 : id-psm-text :psm-text
++id-papugin 4 : id-psm-file  : psm-file
